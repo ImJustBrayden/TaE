@@ -1,5 +1,16 @@
+body {
+  background-color: #a2f7fd;
+}
+h1 {
+  color: #13833a;
+}
+p {
+  color: #179c44;
+}
 table, th, td {
-  border: 5px solid black;
+  border: 7px solid black;
   border-collapse: collapse;
-  padding: 10px;
+}
+th, td {
+  padding: 12px;
 }
