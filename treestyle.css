@@ -1,3 +1,6 @@
 body {
-  background-image: "wamtree.jpg";
+  background-image: url("wamtree.jpg");
+}
+p {
+  color:rgba(156, 11, 11, 1);
 }
